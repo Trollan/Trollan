@@ -13,6 +13,52 @@
 
 - ⚡ Fun fact **Active and autodidact**
 
+
+<style>
+  .social-links {
+    margin-bottom: 10px;
+  }
+
+  .social-links a {
+    margin-right: 10px;
+  }
+
+  .languages-tools {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .languages-tools img {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+</style>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left" class="social-links">
+  <a href="https://twitter.com/trollantsb" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/manuel-sánchez-villalba-340aab220" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<div class="languages-tools">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <!-- Otros íconos de lenguajes y herramientas -->
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/trollantsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trollantsb" height="30" width="40" /></a>
