@@ -26,7 +26,7 @@
 
 
 
-<div align="center">
+<div align="left">
 
 [![mansanch's 42 stats](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/stats?cursusId=21&coalitionId=276)](https://github.com/JaeSeoKim/badge42)
 
