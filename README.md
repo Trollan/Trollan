@@ -24,18 +24,11 @@
 
 
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="[![mansanch's 42 Libft Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2793573)](https://github.com/JaeSeoKim/badge42)" 
-    alt="Libft">
-</img>
+
 
  [![mansanch's 42 stats](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/stats?cursusId=21&coalitionId=276)](https://github.com/JaeSeoKim/badge42)
-<p style="text-align: center;">Libft [![mansanch's 42 Libft Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2793573)](https://github.com/JaeSeoKim/badge42)</p>
-- Printf       [![mansanch's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2899866)](https://github.com/JaeSeoKim/badge42)
-- Born2BeRoot  [![mansanch's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2959292)](https://github.com/JaeSeoKim/badge42)
-- GetNextLine  [![mansanch's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2919868)](https://github.com/JaeSeoKim/badge42)
-- So_long      [![mansanch's 42 so_long Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/3085207)](https://github.com/JaeSeoKim/badge42)
+- ## Libft         [![mansanch's 42 Libft Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2793573)](https://github.com/JaeSeoKim/badge42)
+- ## Printf       [![mansanch's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2899866)](https://github.com/JaeSeoKim/badge42)
+- ## Born2BeRoot  [![mansanch's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2959292)](https://github.com/JaeSeoKim/badge42)
+- ## GetNextLine  [![mansanch's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2919868)](https://github.com/JaeSeoKim/badge42)
+- ## So_long      [![mansanch's 42 so_long Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/3085207)](https://github.com/JaeSeoKim/badge42)
