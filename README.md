@@ -42,8 +42,6 @@
 
 </div>
 <h2>Juego web</h2>
-
-<div style="position: relative; padding-bottom: 75%; height: 0;">
-  <iframe src="https://trollan.github.io" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  [![Play](https://trollan.github.io)
 </div>
 
