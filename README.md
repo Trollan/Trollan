@@ -40,8 +40,9 @@
   
   
 
-</div>
-<h2>Juego web</h2>
-  [![Play](https://trollan.github.io)
-</div>
+## Juego web
+
+Haz clic en el botón para jugar:
+
+<a href="https://trollan.github.io" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Play</a>
 
