@@ -37,6 +37,9 @@
 | Born2BeRoot      | [![mansanch's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2959292)](https://github.com/JaeSeoKim/badge42) |
 | GetNextLine      | [![mansanch's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/2919868)](https://github.com/JaeSeoKim/badge42) |
 | So_long          | [![mansanch's 42 so_long Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/3085207)](https://github.com/JaeSeoKim/badge42) |
+| Minitalk         | [[![mansanch's 42 minitalk Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/3099217)](https://github.com/JaeSeoKim/badge42) |
+| Push_swap        | [[![mansanch's 42 minitalk Score](https://badge42.vercel.app/api/v2/clhtk5fnc004008l9qh8vy8q6/project/3099217)](https://github.com/JaeSeoKim/badge42) |
+  
   
   
 
