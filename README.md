@@ -52,10 +52,9 @@
 Haz clic en el botón para jugar:  
 
 <p align="center">
-  <a href="https://trollan.github.io" 
-     style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; 
-            text-decoration: none; font-weight: bold; font-size: 16px; border-radius: 8px;">
-    🚀 Jugar Ahora
+  <a href="https://trollan.github.io">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80-Jugar%20Ahora-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Jugar Ahora">
   </a>
 </p>
+
 
