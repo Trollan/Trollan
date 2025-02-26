@@ -47,9 +47,15 @@
   
   
 
-## Juego web
+## 🎮 Juego web  
 
-Haz clic en el botón para jugar:
+Haz clic en el botón para jugar:  
 
-<a href="https://trollan.github.io" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Play</a>
+<p align="center">
+  <a href="https://trollan.github.io" 
+     style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; 
+            text-decoration: none; font-weight: bold; font-size: 16px; border-radius: 8px;">
+    🚀 Jugar Ahora
+  </a>
+</p>
 
