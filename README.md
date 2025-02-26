@@ -34,13 +34,14 @@
 
 | Proyecto         | Estado                                                                                                                |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Libft            | ![120](https://img.shields.io/badge/120-green) |
-| Printf           | ![120](https://img.shields.io/badge/120-green) |
-| Born2BeRoot      | ![120](https://img.shields.io/badge/120-green) |
-| GetNextLine      | ![120](https://img.shields.io/badge/120-green) |
-| So_long          | ![120](https://img.shields.io/badge/120-green) |
-| Minitalk         | ![120](https://img.shields.io/badge/120-green) |
-| Push_swap        | ![120](https://img.shields.io/badge/120-green) |
+| Libft            | <img src="https://img.shields.io/badge/120-green" height="30"> |
+| Printf           | <img src="https://img.shields.io/badge/120-green" height="30"> |
+| Born2BeRoot      | <img src="https://img.shields.io/badge/120-green" height="30"> |
+| GetNextLine      | <img src="https://img.shields.io/badge/120-green" height="30"> |
+| So_long          | <img src="https://img.shields.io/badge/120-green" height="30"> |
+| Minitalk         | <img src="https://img.shields.io/badge/120-green" height="30"> |
+| Push_swap        | <img src="https://img.shields.io/badge/120-green" height="30"> |
+
 
   
   
