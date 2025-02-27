@@ -47,7 +47,7 @@
   
   
 
-## 🎮 Juego web  
+## 🎮 Juegos web  
 
 Haz clic en el botón para jugar:  
 
